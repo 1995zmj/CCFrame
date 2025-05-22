@@ -1,0 +1,21 @@
+{
+    "gameModeClassString": "ZGameMode",
+    "gameStateClassString": "ZGameState",
+    "experienceConfig": {
+        "gameFeaturesToEnable": [],
+        "defaultPawnData": {
+            "pawnClass": "",
+            "abilitySets": [],
+            "tagRelationshipMapping": [],
+            "inputConfig": "",
+            "defaultCameraMode": ""
+        },
+        "actions": [
+            {
+                "actionClassName": "AddWidget",
+                "data": [["LayoutRequest", "ZMainMenuLayer", "UI.Layer.GameMenu"]]
+            }
+        ],
+        "actionSets": []
+    }
+}
